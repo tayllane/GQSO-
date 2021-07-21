@@ -1,0 +1,1 @@
+# Calculadora API (GQSO)
