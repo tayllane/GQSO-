@@ -1,6 +1,6 @@
 # Calculadora API (GQSO)
 
-Projeto avaliativo da disciplina de Gestão e Qualidade de Software do IFAL campus Arapiraca
+Esse repositório implementa uma versão da calculadora API utilizando a linguagem de programação GO.
 
 > Status do Projeto: Em desenvolvimento 
 
