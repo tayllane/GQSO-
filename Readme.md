@@ -1,7 +1,7 @@
 # Calculadora API (GQSO IFAL)
 
 ##  📝 Começando
-Esse repositório implementa uma versão da calculadora API utilizando a linguagem de programação GO.
+Esse repositório implementa uma versão da calculadora API utilizando a linguagem de programação Java.
 ##  🕵️‍♀️ Objetivo
 Projeto avaliativo da disciplina de GQSO
 > Status do Projeto: Em desenvolvimento.
